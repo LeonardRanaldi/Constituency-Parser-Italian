@@ -32,7 +32,7 @@ pip install PYEVALB
 
 ## Usage
 
-The details are explained in the constituency_parser.ipynb notebook.
+The details are explained in the constituency_parser.ipynb [https://github.com/LeonardRanaldi/Constituency-Parser-Italian/blob/main/constituency_parser.ipynb] notebook.
 
 
 
