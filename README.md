@@ -6,13 +6,14 @@
 ### Prerequisites
 
 - Python 3
-- nltk, sklear, PYEVALB packages.
+- nltk, sklear, sentence-splitter, PYEVALB packages.
 
 ### Installation
 
 ```
 pip install nltk
 pip install scikit-learn
+pip install sentence-splitter
 pip install PYEVALB
 ```
 
